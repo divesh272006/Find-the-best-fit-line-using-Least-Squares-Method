@@ -53,8 +53,8 @@ plt.legend()
 plt.title("Univariate Linear Regression")
 plt.show()
 
-Developed by:Rabaniya M
-RegisterNumber:212224020046
+Developed by:Divesh A
+RegisterNumber:212225040082
 ```
 
 ## Output:
