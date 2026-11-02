@@ -1,8 +1,5 @@
 # Implementation of Univariate Linear Regression
-Developed by:Divesh A
-RegisterNumber:212225040082
 ## AIM:
-
 To implement univariate Linear Regression to fit a straight line using least squares.
 
 ## Equipments Required:
@@ -21,7 +18,6 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 ## Program:
 ```
-
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -57,7 +53,8 @@ plt.legend()
 plt.title("Univariate Linear Regression")
 plt.show()
 
-
+Developed by:DIVESH A
+RegisterNumber:212225040082
 ```
 
 ## Output:
